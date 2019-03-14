@@ -19,3 +19,23 @@ JSP와 DB를 이용한 간단한 웹 페이지 입니다.
 # 메인화면(관리자)
 
 ![메인화면(관리자)](https://github.com/minungpark/JSP-Web/blob/master/img/main(admin).png)
+
+# 회원가입
+
+![회원가입](https://github.com/minungpark/JSP-Web/blob/master/img/join.png)
+
+#ID 체크(허가)
+
+![id체크(허가)](https://github.com/minungpark/JSP-Web/blob/master/img/idcheck(yes).png)
+
+#ID 체크(불허가)
+
+![id체크(불허가)](https://github.com/minungpark/JSP-Web/blob/master/img/idcheck(no).png)
+
+# 로그인
+
+![로그인](https://github.com/minungpark/JSP-Web/blob/master/img/login.png)
+
+# 마이페이지
+
+![마이페이지](https://github.com/minungpark/JSP-Web/blob/master/img/mypage.png)
