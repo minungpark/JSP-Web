@@ -8,14 +8,14 @@ JSP와 DB를 이용한 간단한 웹 페이지 입니다.
 
 조만간 구동 사진을 업로드 할 생각입니다.
 
-#메인 화면
+# 메인 화면
 
 ![메인화면](https://github.com/minungpark/JSP-Web/blob/master/img/main.png)
 
-#메인화면(유저)
+# 메인화면(유저)
 
-![메인화면(유저)](https://github.com/minungpark/JSP-Web/tree/master/img/main(user).png)
+![메인화면(유저)](https://github.com/minungpark/JSP-Web/blob/master/img/main(user).png)
 
-#메인화면(관리자)
+# 메인화면(관리자)
 
-![메인화면(관리자)](https://github.com/minungpark/JSP-Web/tree/master/img/main(admin).png)
+![메인화면(관리자)](https://github.com/minungpark/JSP-Web/blob/master/img/main(admin).png)
