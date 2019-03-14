@@ -24,11 +24,11 @@ JSP와 DB를 이용한 간단한 웹 페이지 입니다.
 
 ![회원가입](https://github.com/minungpark/JSP-Web/blob/master/img/join.png)
 
-#ID 체크(허가)
+# ID 체크(허가)
 
 ![id체크(허가)](https://github.com/minungpark/JSP-Web/blob/master/img/idcheck(yes).png)
 
-#ID 체크(불허가)
+# ID 체크(불허가)
 
 ![id체크(불허가)](https://github.com/minungpark/JSP-Web/blob/master/img/idcheck(no).png)
 
@@ -39,3 +39,28 @@ JSP와 DB를 이용한 간단한 웹 페이지 입니다.
 # 마이페이지
 
 ![마이페이지](https://github.com/minungpark/JSP-Web/blob/master/img/mypage.png)
+
+# 게시판
+
+![게시판](https://github.com/minungpark/JSP-Web/blob/master/img/postlist.png)
+
+# 게시판(제목 검색)
+
+![게시판(제목 검색)](https://github.com/minungpark/JSP-Web/blob/master/img/postlist(searchtitle).png)
+
+# 게시판(작성자 검색)
+
+![게시판(작성자 검색)](https://github.com/minungpark/JSP-Web/blob/master/img/postlist(searchwriter).png)
+
+# 새글작성
+
+![새글작성](https://github.com/minungpark/JSP-Web/blob/master/img/post-write.png)
+
+# 게시물 수정
+
+![게시물 수정](https://github.com/minungpark/JSP-Web/blob/master/img/post-modify.png)
+
+# 게시물 수정 후
+
+![게시물 수정 후](https://github.com/minungpark/JSP-Web/blob/master/img/after-post-modify.png)
+
