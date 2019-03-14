@@ -10,7 +10,7 @@ JSP와 DB를 이용한 간단한 웹 페이지 입니다.
 
 #메인 화면
 
-![메인화면](https://github.com/minungpark/JSP-Web/tree/master/img/main.png)
+![메인화면](https://github.com/minungpark/JSP-Web/blob/master/img/main.png)
 
 #메인화면(유저)
 
